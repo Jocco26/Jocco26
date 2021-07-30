@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][facebook]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/Jocco26/jocco26/456e82d6a62a96c4e8e2e65cfee48550643c2748/imgs/fbicon.svg" />][facebook]
 
 
 
