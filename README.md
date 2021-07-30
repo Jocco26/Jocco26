@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portfolio to show my skills in web development
 - 🌱 I’m currently learning Vue.js and Laravel
 
+### See my sample projects:
+
+- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
 
 ### Connect with me:
 
