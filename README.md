@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### See my sample projects:
 
-- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
+- [Tattoo and piercing shop landing page](http://tattooandpiercingshop.herokuapp.com/)
 
 ### Connect with me:
 
