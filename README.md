@@ -2,8 +2,8 @@
 
 ### I'm a fresh grad and aspiring programmer
 
-<!--
-**Jocco26/jocco26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][facebook]
--->
+
 
 
 [facebook]: https://www.facebook.com/juliusceasar.magabo
