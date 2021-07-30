@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### See my sample projects:
 
-- [Tattoo and piercing shop landing page](http://tattooandpiercingshop.herokuapp.com/)
+- [Tattoo and piercing shop landing page](https://tattooandpiercingshop.herokuapp.com/)
 
 ### Language and tools:
 
