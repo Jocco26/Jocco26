@@ -5,7 +5,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio to show my skills in web development
 - 🌱 I’m currently learning Vue.js and Laravel
