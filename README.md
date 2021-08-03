@@ -1,4 +1,4 @@
-###👋Hi i'm Julius Ceasar Mag-abo 
+###Hi i'm Julius Ceasar Mag-abo👋
 
 ### I'm a fresh grad and aspiring programmer
 
