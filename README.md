@@ -1,13 +1,6 @@
 ### Hi i'm Julius Ceasar Mag-abo👋
 
-### I'm a fresh grad and aspiring programmer
-
-
-
-
-
-- 🔭 I’m currently working on my portfolio to show my skills in web development
-- 🌱 I’m currently learning Vue.js and Laravel
+### Currently working as I.T software support staff in Ever Supermarket head office
 
 ### See my sample projects:
 
