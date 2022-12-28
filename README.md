@@ -1,10 +1,6 @@
-### Hi i'm Julius Ceasar Mag-abo👋
+### Julius Ceasar Mag-abo👋
 
-### Currently working as I.T software support staff in Ever Supermarket head office
-
-### See my sample projects:
-
-- [Tattoo and piercing shop landing page](https://tattooandpiercingshop.herokuapp.com/)
+### Currently working as Junior Programmer at Ever Supermarket head office
 
 ### Language and tools:
 
