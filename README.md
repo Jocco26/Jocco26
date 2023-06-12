@@ -20,7 +20,7 @@
 
 [<img align="left"  width="50px" src="https://raw.githubusercontent.com/Jocco26/jocco26/456e82d6a62a96c4e8e2e65cfee48550643c2748/imgs/fbicon.svg" />][facebook]
 
-[<img align="left"  width="27px" src="https://github.com/Jocco26/jocco26/blob/main/imgs/linkedin.png?raw=true" />][linkedin]
+[<img align="left"  width="25px" src="https://github.com/Jocco26/jocco26/blob/main/imgs/linkedin.png?raw=true" />][linkedin]
 
 
 
